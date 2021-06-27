@@ -1,0 +1,23 @@
+body{
+	margin: 35px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+header{
+	border: 2px solid; 
+	background-color: powderblue;
+	text-align: center;
+	padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+header h1{
+	color: darkcyan;
+	font-size: 30px;
+	font-weight: 800;
+	font-style: italic;
+}
+
+header img{
+	border-radius: 10px;
+}
